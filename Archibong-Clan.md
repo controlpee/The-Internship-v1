@@ -2,14 +2,11 @@ Kindly add your name to this file as an attestion to abide by the Clan Guideline
 <br/> Follow the format.<br/>
 ___
 <strong>Name: </strong> Pius Ezeh<br/>
-<br/>
 <strong>Track: </strong>Backend API - Nodejs<br/>
 ___
 <strong>Name: </strong>Pius Ezeh<br/>
-<br/>
 <strong>Track: </strong>Backend API - Nodejs<br/>
 ___
 <strong>Name: </strong>Pius Ezeh<br/>
-<br/>
 <strong>Track: </strong>Backend API - Nodejs<br/>
 
