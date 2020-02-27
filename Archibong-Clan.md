@@ -1,12 +1,12 @@
 Kindly add your name to this file as an attestion to abide by the Clan Guidelines and the Terms of The Internship v1
 <br/> Follow the format.<br/>
 ___
-<strong>Name: </strong> Pius Ezeh<br/>
-<strong>Track: </strong>Backend API - Nodejs<br/>
+Name: <strong> Pius Ezeh</strong><br/>
+Track: <strong>Backend API - Nodejs</strong><br/>
 ___
-<strong>Name: </strong>Pius Ezeh<br/>
-<strong>Track: </strong>Backend API - Nodejs<br/>
+Name: <strong>Pius Ezeh</strong><br/>
+Track: <strong>Backend API - Nodejs</strong><br/>
 ___
-<strong>Name: </strong>Pius Ezeh<br/>
-<strong>Track: </strong>Backend API - Nodejs<br/>
+Name: <strong>Pius Ezeh</strong><br/>
+Track: <strong>Backend API - Nodejs</strong><br/>
 
